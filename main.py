@@ -260,6 +260,9 @@ class ClothesMenu():
         self.take_of_button = Button("Снять", SCREEN_WIDTH-BUTTON_WIDTH-GRID*10, SCREEN_HEIGHT-15*GRID-BUTTON_HEIGHT, width=int(BUTTON_WIDTH//1.2), height=int(BUTTON_HEIGHT//1.2), func=self.take_of)
 
     def draw(self, screen, game):
+        """
+        Функция для отрисовки меню.
+        """
         screen.blit(self.menu_page, self.menu_rect)
         screen.blit(self.items[self.current_item].image, self.item_rect)
         screen.blit(self.price_text, self.price_text_rect)
