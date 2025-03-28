@@ -1,0 +1,129 @@
+{
+    "happiness": 10,
+    "satiety": 30,
+    "health": 20,
+    "money": 20,
+    "max_score": 0,
+    "clothes": [
+        {
+            "name": "Синяя футболка",
+            "price": 15,
+            "image": "images/items/blue t-shirt.png",
+            "is_using": false,
+            "is_bought": false
+        },
+        {
+            "name": "Ботинки",
+            "price": 50,
+            "image": "images/items/boots.png",
+            "is_using": false,
+            "is_bought": false
+        },
+        {
+            "name": "Шляпа",
+            "price": 50,
+            "image": "images/items/hat.png",
+            "is_using": false,
+            "is_bought": false
+        },
+        {
+            "name": "Бант",
+            "price": 70,
+            "image": "images/items/bow.png",
+            "is_using": false,
+            "is_bought": false
+        },
+        {
+            "name": "Кепка",
+            "price": 75,
+            "image": "images/items/cap.png",
+            "is_using": false,
+            "is_bought": false
+        },
+        {
+            "name": "Златая цепь с дуба",
+            "price": 100,
+            "image": "images/items/gold chain.png",
+            "is_using": false,
+            "is_bought": false
+        },
+        {
+            "name": "Красная футболка",
+            "price": 10,
+            "image": "images/items/red t-shirt.png",
+            "is_using": false,
+            "is_bought": false
+        },
+        {
+            "name": "Очки",
+            "price": 80,
+            "image": "images/items/sunglasses.png",
+            "is_using": false,
+            "is_bought": false
+        },
+        {
+            "name": "Желтая футболка",
+            "price": 20,
+            "image": "images/items/yellow t-shirt.png",
+            "is_using": false,
+            "is_bought": false
+        },
+        {
+            "name": "Серебрянная цепь",
+            "price": 85,
+            "image": "images/items/silver chain.png",
+            "is_using": false,
+            "is_bought": false
+        }
+    ],
+    "food": [
+        {
+            "name": "Яблоко",
+            "price": 15,
+            "image": "images/food/apple.png",
+            "efficiency": 10,
+            "is_bought": false,
+            "medicine": 1
+        },
+        {
+            "name": "Кость",
+            "price": 30,
+            "image": "images/food/bone.png",
+            "efficiency": 20,
+            "is_bought": false,
+            "medicine": 1
+        },
+        {
+            "name": "Первоклассный корм",
+            "price": 70,
+            "image": "images/food/dog food elite.png",
+            "efficiency": 30,
+            "is_bought": false,
+            "medicine": 7
+        },
+        {
+            "name": "Корм",
+            "price": 50,
+            "image": "images/food/dog food.png",
+            "efficiency": 15,
+            "is_bought": false,
+            "medicine": 1
+        },
+        {
+            "name": "Мясо https://clck.ru/3J55Ej",
+            "price": 40,
+            "image": "images/food/meat.png",
+            "efficiency": 25,
+            "is_bought": false,
+            "medicine": 5
+        },
+        {
+            "name": "Лекарство",
+            "price": 30,
+            "image": "images/food/medicine.png",
+            "efficiency": 1,
+            "is_bought": false,
+            "medicine": 15
+        }
+    ]
+}
